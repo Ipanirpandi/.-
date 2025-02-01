@@ -140,7 +140,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2024 Website Pembelajaran Bola Basket Ipan Irpandi 232223110</p>
+    <p>&copy; 2024 Website Pembelajaran Bola Basket by.ipn</p>
   </footer>
 
 </body>
